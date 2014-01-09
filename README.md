@@ -1,7 +1,7 @@
 
 ### About
 
-This repository is just like the main 4kGL repository, except that it includes
+This repository is just like the main [4kGL][] repository, except that it includes
 a simple effect. It can be used to easily test different game loop
 implementations or as a general test for 4kGL.
 
@@ -10,4 +10,6 @@ different directions. The camera is placed between them. It should
 look like this:
 
 ![Screenshot](https://raw.github.com/Beluki/4kGL-Example/master/Screenshot/Screenshot.png)
+
+[4kGL]: https://github.com/Beluki/4kGL
 
