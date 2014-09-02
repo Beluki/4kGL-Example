@@ -13,3 +13,10 @@ look like this:
 
 [4kGL]: https://github.com/Beluki/4kGL
 
+## Status
+
+This program is finished!
+
+4kGL-Example is feature-complete and has no known bugs. Unless issues are reported
+I plan no further development on it other than maintenance.
+
