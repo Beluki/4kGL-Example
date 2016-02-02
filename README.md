@@ -9,7 +9,7 @@ It's just two transparent cubes, one inside the other, rotating in
 different directions. The camera is placed between them. It should
 look like this:
 
-![Screenshot](https://raw.github.com/Beluki/4kGL-Example/master/Screenshot/Screenshot.png)
+![Screenshot](Screenshot/Screenshot.png)
 
 [4kGL]: https://github.com/Beluki/4kGL
 
